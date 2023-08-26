@@ -1,2 +1,1 @@
-# gallery96
-Photo gallery using React, Firebase, Firestore
+Basic photo gallery using react vite, firebase, daisy UI
