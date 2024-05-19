@@ -1,10 +1,10 @@
 import { HiUser, HiUserAdd } from "react-icons/hi";
 
 const Header = () => {
-  const menu = [
-    { title: "サインアップ", icon: HiUserAdd },
-    { title: "サインイン", icon: HiUser },
-  ];
+  // const menu = [
+  //   { title: "サインアップ", icon: HiUserAdd },
+  //   { title: "サインイン", icon: HiUser },
+  // ];
   return (
     <div className="flex">
       <img
